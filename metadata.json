@@ -1,0 +1,6 @@
+{
+  "name": "Tos School - Curriculum Visual Learning Hub",
+  "description": "Visual study repository and curriculum learning gallery for Primary 4 through SSS 3. Teachers and students can explore, download, and share visual charts, diagrams, and past lesson aids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
